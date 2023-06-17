@@ -20,8 +20,7 @@ public class TypeCasting {
 				System.out.println("Value of d: "+d);
 				
 				double e=a;
-				System.out.println("Value of e: "+e);
-				
+				System.out.println("Value of e: "+e);				
 						
 				System.out.println("\n");
 				
